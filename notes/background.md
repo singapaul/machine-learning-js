@@ -6,6 +6,7 @@
 - Large JS community
 - Can import tensorflow into python 
 - Let's not talk about JS performance, TS JS is fast, don't worry about it.
+- JavaScript performance limitations are not as big a concern as you might expect, due to optimised backends using WebGL (in the browser) and native TensorFlow (with Node.js).
 
 ## examples in the course 
 
