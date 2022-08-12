@@ -30,3 +30,15 @@ Machine learning is a sub category of AI. We perform tasks without explicitly co
 ### Artificial neural networks
 
 - inspired by biological neurons. Feed in inputs and they produce outputs. We train via back-propagation using regression. We treat them like a black-box we don't know what is inside but we do tweak the configurations (hyper params)
+
+
+## Knowledge check
+- The original TensorFlow provide APIs for Python, Go, Java & C
+- The original TensorFlow does not run in JavaScript and the web browser because native code cannot run in the browser environment.
+- TensorFlow.js was created as a distinct but related library to the original TensorFlow. With it it is possible to:
+    - Write command-line scripts for ML tasks
+    - Integrate ML into a server side back-end
+    - Train a ML model in the browser
+    - Use ML models created by TF for python
+    - Utilise the camera on a smart phone for object recognition
+
